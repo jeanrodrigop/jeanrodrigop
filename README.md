@@ -1,10 +1,10 @@
-# Hello, Welcome!
+# Hello World!
 
 Technology lover aiming at the fullstack web and mobile.
 
 Curious and passionate about knowledge, I always look for a way to help people applying technology. Migrating from the infra area, I am in the infancy of development, I can't wait to take the first steps alone!
 
-- I’m currently working on **HTML, CSS,  & Docker**;
+- I’m currently working on **HTML, CSS & Docker**;
 - Learning **JS, PHP & MySQL**;
 - Looking others for my stack!
 - I’m looking to collaborate!
