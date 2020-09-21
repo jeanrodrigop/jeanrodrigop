@@ -15,4 +15,4 @@ Curious and passionate about knowledge, I always look for a way to help people a
 
 [![linkedin](https://img.shields.io/badge/-Jean%20Rodrigo-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanrodrigop/?locale=en_US) 
 [![mail](https://img.shields.io/badge/-Jean%20Rodrigo-informational?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:jeanrodrigo_p@outlook.com) 
-[![instagram](https://img.shields.io/badge/-Jean%20Rodrigo-informational?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jrodrigo.p) 
+[![instagram](https://img.shields.io/badge/-@jrodrigo.p-informational?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jrodrigo.p) 
