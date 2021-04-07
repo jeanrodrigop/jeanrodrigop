@@ -2,7 +2,7 @@
 
 Technology lover aiming at the fullstack web and mobile.
 
-Curious and passionate about knowledge, I always look for a way to help people applying technology. Migrating from the infra area, I am in the infancy of development, I can't wait to take the first steps alone!
+"Knowledge is the information analyzed, understood and incorporated. Wisdom is knowledge submitted to the judgment of values, beliefs, ethics and morals. Therefore, there is no wisdom without knowledge, nor knowledge without information, we can say that they are given in stages. different processing. " 
 
 - I’m currently working on **HTML, CSS & Docker**;
 - Learning **JS, PHP & MySQL**;
