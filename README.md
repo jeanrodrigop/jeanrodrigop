@@ -1,13 +1,13 @@
 # Hello Git!
 
-Technology lover aiming at the fullstack web and mobile.
+SysAdmin Trainee.
 
 "Knowledge is the information analyzed, understood and incorporated. Wisdom is knowledge submitted to the judgment of values, beliefs, ethics and morals. Therefore, there is no wisdom without knowledge, nor knowledge without information, we can say that they are given in stages. different processing. " 
 
-- Learning stage!
-- Looking others for my stack!
-- I’m looking to collaborate!
-- Some help!
+- Studying
+- Learning
+- Applying
+- Understanding
 
 >"Power comes not from knowledge kept but from knowledge shared" ― Bill Gates
 
