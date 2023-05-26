@@ -62,7 +62,7 @@ SysAdmin Trainee.
   <a href="https://instagram.com/jrodrigo.p" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
   </a>
-  <a href="jeanrodrigo_p@outlook.com" target="_blank">
+  <a href="mailto:jeanrodrigo_p@outlook.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="35" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
