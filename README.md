@@ -21,7 +21,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="30" width="35" alt="vim logo"  />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="35" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" width="35" alt="grafana logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" width="35" alt="photoshop logo"  />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="35" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="35" alt="kubernetes logo"  />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" width="35" alt="terraform logo"  />
 </div>
 </table>
 
