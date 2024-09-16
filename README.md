@@ -6,7 +6,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jeanrodrigop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=0" height="145" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanrodrigop&locale=en&hide_title=false&layout=compact&card_width=337&langs_count=5&theme=nord&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanrodrigop&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=6&theme=nord&hide_border=false&order=2" height="145" alt="languages graph"  />
 </div>
 </div>
 
@@ -40,7 +40,9 @@
 
 SysAdmin
 
-"Knowledge is the information analyzed, understood and incorporated. Wisdom is knowledge submitted to the judgment of values, beliefs, ethics and morals. Therefore, there is no wisdom without knowledge, nor knowledge without information, we can say that they are given in stages. different processing. "
+SysAdmin | Learning DevOps/Cloud
+
+I am a systems administrator with experience in systems management, user support, infrastructure in Windows and Linux environments, and monitoring with Zabbix and Grafana. I have skills in operational systems, virtualization and observability. I am specializing in DevOps and Cloud, and my knowledge includes Linux, Docker, Kubernetes, Terraform, CI/CD, and monitoring with Zabbix and Grafana. I possess the ability to understand and resolve complex problems. I am continuously seeking to improve my skills and knowledge.
 
 - Studying
 - Learning
@@ -49,26 +51,19 @@ SysAdmin
 
 >"Power comes not from knowledge kept but from knowledge shared" ― Bill Gates
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanrodrigop/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanrodrigop)
+
+</div>
+
 <h1></h1>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jeanrodrigop&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeanrodrigop/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/jrodrigo.p" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:jeanrodrigo_p@outlook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="35" height="25" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
