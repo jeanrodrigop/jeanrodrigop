@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: #eaeaea;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.terminal {
+    background-color: #282c34;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    width: 700px;
+    color: #eaeaea;
+}
+
+.header, .footer {
+    color: #00aaff;
+}
+
+.host {
+    color: #ffffff;
+}
+
+.content {
+    display: flex;
+    margin-top: 10px;
+}
+
+.others-white {
+    color: #fff;
+    font-weight: bold;
+}
+
+.ascii-art {
+    margin-right: 100px;
+}
+
+.info {
+    color: #ffffff;
+}
+
+.info-title {
+    color: #00aaff;
+    font-weight: bold;
+}
+
+.label {
+    color: #87be54;
+    font-weight: bold;
+}
+
+.hyphen {
+    color: #e07731;
+    font-weight: bold;
+}
+
+.palette {
+    display: grid;
+    grid-template-columns: repeat(8, 20px);
+    gap: 4px;
+    margin-top: 10px;
+}
+
+.tilde {
+    color: #87be54;
+    font-weight: bold;
+}
+
+.color-box {
+    width: 20px;
+    height: 20px;
+}
+
+pre {
+    color: #eaeaea;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #00aaff;
+    margin: 5px 0;
+}
