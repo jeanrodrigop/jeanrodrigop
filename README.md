@@ -1,6 +1,6 @@
 # Hello Git!
 <div align="center">
-<a href="https://jeanrodrigop.github.io/jeanrodrigop/"> <img align="left"  height="300" src="./img/gitfetch.png"> </a>
+<a href="https://jeanrodrigop.github.io/jeanrodrigop/"> <img align="left"  height="300" width="500" src="./img/gitfetch.png"> </a>
 
 ###
 
