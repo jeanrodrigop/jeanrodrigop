@@ -1,6 +1,6 @@
 # Hello Git!
 <div align="center">
-<img align="left" height="300" src="./img/neofetch.png"  />
+<img align="left"  height="300" src="./img/gitfetch.png"  />
 
 ###
 
