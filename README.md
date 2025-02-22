@@ -2,15 +2,14 @@
 <div align="center">
 <a href="https://jeanrodrigop.github.io/jeanrodrigop/"><img align="left"  height="300" width="450" src="./img/gitfetch.png"></a>
 
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanrodrigop&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=0" height="145" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanrodrigop&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=6&theme=nord&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanrodrigop&hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=0" height="145" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeanrodrigop&locale=en&card_width=455&hide_title=false&layout=compact&langs_count=8&theme=nord&hide_border=false&order=2&hide=css,html,ejs,php" height="145" alt="languages graph"  />
 </div>
 </div>
 
-###
+#
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="35" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="35" alt="windows8 logo"  />
@@ -23,16 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="35" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" width="35" alt="grafana logo"  />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="35" alt="docker logo"  />
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" width="35" alt="prometheus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="35" alt="golang logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="35" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="35" alt="google cloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="35" alt="kubernetes logo"  />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" width="35" alt="terraform logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" height="30" width="35" alt="ansible logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" width="35" alt="jenkins logo"  /> 
-  -->
 </div>
 </table>
 
