@@ -29,11 +29,7 @@
 
 <h1></h1>
 
-SysAdmin
-
-SysAdmin | Learning DevOps/Cloud
-
-I am a systems administrator with experience in systems management, user support, infrastructure in Windows and Linux environments, and monitoring with Zabbix and Grafana. I have skills in operational systems, virtualization and observability. I am specializing in DevOps and Cloud, and my knowledge includes Linux, Docker, Kubernetes, Terraform, CI/CD, and monitoring with Zabbix and Grafana. I possess the ability to understand and resolve complex problems. I am continuously seeking to improve my skills and knowledge.
+DevOps | Cloud
 
 - Studying
 - Learning
